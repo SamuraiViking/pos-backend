@@ -57,3 +57,4 @@ Next, navigate to one of our example apps. Follow the instructions in the README
 
 ⚠️ **Note that this backend is intended for example purposes only**. Because endpoints are not authenticated, you should not use this backend in production.
 
+# pos-backend
